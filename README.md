@@ -2,14 +2,15 @@
 
 ## Requis
 
-### Technique
+##### Technique
 
 - Pour les librairies, vous devez utiliser minimalement React, Typescript ainsi que React Testing Library. Pour le reste, c'est à votre guise.
 
-### Design
+##### Design
 
 - Le UI / UX est à votre guise, on ne s'attend pas à un chef-d'oeuvre, mais on va regarder le styling un peu.
 
+## Tâches
 ### Étape 1
 
 Créer un projet React avec Typescript. Vous pouvez utiliser create-react-app ou Vite, à votre guise.
