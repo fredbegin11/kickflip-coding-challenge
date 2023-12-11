@@ -2,9 +2,9 @@
 
 ## Requis
 
-##### Technique
+##### Librairies
 
-- Pour les librairies, vous devez utiliser minimalement React, Typescript ainsi que React Testing Library. Pour le reste, c'est à votre guise.
+- Vous devez utiliser minimalement React, Typescript ainsi que React Testing Library. Pour le reste, c'est à votre guise.
 
 ##### Design
 
