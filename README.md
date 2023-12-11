@@ -4,16 +4,20 @@
 
 ##### Librairies
 
-- Vous devez utiliser minimalement React, Typescript ainsi que React Testing Library. Pour le reste, c'est à votre guise.
+- Vous devez utiliser minimalement React, Typescript ainsi que React Testing Library.
+- Pour le reste (fetch, state management, styling, etc.), c'est à votre guise.
 
 ##### Design
 
-- Le UI / UX est à votre guise, on ne s'attend pas à un chef-d'oeuvre, mais on va regarder le styling un peu.
+- Le UI / UX est à votre choix, on ne s'attend pas à un chef-d'oeuvre, mais on va regarder le styling un peu.
+- Voici un exemple très simple à quoi ça pourrait ressembler:
+
+<img width="1459" alt="Screen Shot 2023-12-11 at 2 00 08 PM" src="https://github.com/fredbegin11/kickflip-coding-challenge/assets/8545738/9a8bbfc1-4193-4944-b56b-37f01632e68a">
 
 ## Tâches
 ### Étape 1
 
-Créer un nouveau projet React avec Typescript. Vous pouvez utiliser create-react-app ou Vite, à votre guise.
+Créer un nouveau projet React avec Typescript. Vous pouvez utiliser create-react-app ou Vite.
 
 ### Étape 2
 
@@ -22,9 +26,7 @@ Créer une page qui afficher une liste de recettes de bière.
 - Les données doivent provenir de [Brewdog Punk API](https://punkapi.com/documentation/v2) -> `https://api.punkapi.com/v2/beers`
 - La liste doit contenir les champs suivants: Name, Tagline, ABV, IBU et Boil Volume
 
-Voici un exemple à quoi ça pourrait ressembler (le UX / UI est à votre guise):
 
-<img width="1459" alt="Screen Shot 2023-12-11 at 2 00 08 PM" src="https://github.com/fredbegin11/kickflip-coding-challenge/assets/8545738/9a8bbfc1-4193-4944-b56b-37f01632e68a">
 
 ### Étape 3
 
