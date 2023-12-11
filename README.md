@@ -21,7 +21,7 @@ Créer un nouveau projet React avec Typescript. Vous pouvez utiliser create-reac
 
 ### Étape 2
 
-Créer une page qui afficher une liste de recettes de bière.
+Créer une page qui affiche une liste de recettes de bière.
 
 - Les données doivent provenir de [Brewdog Punk API](https://punkapi.com/documentation/v2) -> `https://api.punkapi.com/v2/beers`
 - La liste doit contenir les champs suivants: Name, Tagline, ABV, IBU et Boil Volume
