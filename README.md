@@ -26,11 +26,9 @@ Créer une page qui afficher une liste de recettes de bière.
 - Les données doivent provenir de [Brewdog Punk API](https://punkapi.com/documentation/v2) -> `https://api.punkapi.com/v2/beers`
 - La liste doit contenir les champs suivants: Name, Tagline, ABV, IBU et Boil Volume
 
-
-
 ### Étape 3
 
-Ajouter un champs de recherche à la liste.
+Ajouter un champs de recherche à la liste. La recherche doit s'effectuer après 1 seconde sans keystroke.
 
 - Le champ recherche doit pouvoir chercher sur le champs Name.
 
